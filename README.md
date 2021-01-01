@@ -5,8 +5,8 @@
 - [Description of Pipeline](#description-of-pipeline)
 - [How to run the pipline](#how-to-run-the-pipeline)
 - [Data Acquisition](#data-acquisition)
-- [Insights]()
-- [Crop-Classification]
+- [Insights](#insights)
+- [Crop-Classification](#crop-classification)
 <!-- markdown-toc end -->
 
 
@@ -21,8 +21,8 @@ Desired time range, area, and kind of vegetation indices is easily configurable 
 As the code is highly confidential, if you would like to have a demo of beta version, please contact me through linkedin.
 
 ## How to run the pipeline
-Pipeline is runnable in any environment with a virtual environment.
-Create log file
+Pipeline is runnable in any environment with a virtual environment.<br>
+First, create log file
 ```python
 mkdr logs
 ```
