@@ -1,11 +1,14 @@
 # Crop Yield Prediction with Satellite Images
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+
 **Table of Contents**
 - [Objective](#objective)
-- [How to run the pipline](how-to-run-the-pipeline)
+- [How to run the pipline](#how-to-run-the-pipeline)
 - [Data Acquisition](#data-acquisition)
 - [Derived Insights]()
-- [Crop-Classification]()
+- [Crop-Classification]
+<!-- markdown-toc end -->
 
 
 ## Objective
