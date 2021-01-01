@@ -1,4 +1,4 @@
-**Crop Yield Prediction with Satellite Image**
+# Crop Yield Prediction with Satellite Image
 <p align="center">
 <img src="./images/satellite.png" alt="satellite" width="300">
 </p>
@@ -70,13 +70,15 @@ python run.py
 <br><br>
 
 <p align="center">
-<img src="./images/lr.png" width="300">
+<img src="./images/lr.png" width="600">
 </p>
+<br><br>
 
 ## Crop classification
 <p align="center">
 <img src="./images/classification_result.png">
 </p>
+<br><br>
 
 ## Crop yield prediction
 <p align="center">
