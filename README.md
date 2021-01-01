@@ -58,16 +58,19 @@ python run.py
 <img src="./images/vi_evolution_map.png">
 </p>
 <br><br>
+
 <p align="center">
 <img src="./images/vi_evolution_lineplot.png">
 </p>
 <br><br>
+
 <p align="center">
 <img src="./images/vi_evolution_heatmap.png">
 </p>
 <br><br>
+
 <p align="center">
-<img src="./images/lr.png",width="200">
+<img src="./images/lr.png" width="300">
 </p>
 
 ## Crop classification
