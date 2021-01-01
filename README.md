@@ -11,14 +11,14 @@
   - [Description](#description-of-pipeline)
   - [Data acquisition mechanism](#data-acquisition-mechanism)
   - [How to run the pipline](#how-to-run-the-pipeline)
-- [Enabled works and results](enabled-works-and-examples)
+- [Enabled work results](enabled-work-examples)
   - [Derive insights](#derive-insights)
   - [Crop-classification](#crop-classification)
 <!-- markdown-toc end -->
 
 
 # Objective
-This project's objective is to minigate the supply chain risks in food and agricultural sectors by predicting crop yields in France. <br>
+This project's objective is to mitigate the supply chain risks in food and agricultural sectors by predicting crop yields in France. <br>
 The pipeline is to be integraged into [Agrisight®](https://agrisight.emerton-data.com/?page_id=320&lang=en) by [Emerton Data®](https://www.emerton-data.com/)
 
 # About our pipeline
@@ -52,7 +52,7 @@ Run code
 python run.py 
 ```
 
-# Enabled works and examples
+# Enabled works examples
 ## Derive insights
 <p align="center">
 <img src="./images/vi_evolution_map.png">
@@ -70,7 +70,7 @@ python run.py
 <br><br>
 
 <p align="center">
-<img src="./images/lr.png" width="600">
+<img src="./images/lr.png" width="800">
 </p>
 <br><br>
 
