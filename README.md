@@ -1,12 +1,11 @@
-# Crop Yield Prediction with Satellite Images
-
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 
 **Table of Contents**
 - [Objective](#objective)
+- [Description of Pipeline](#description-of-pipeline)
 - [How to run the pipline](#how-to-run-the-pipeline)
 - [Data Acquisition](#data-acquisition)
-- [Derived Insights]()
+- [Insights]()
 - [Crop-Classification]
 <!-- markdown-toc end -->
 
@@ -19,11 +18,10 @@ The pipeline is to be integraged into [Agrisight®](https://agrisight.emerton-da
 Although there are 2,200 satellites flying nowadays, usage of satellite image (remote sensing data) is limited due to the scientific and technical difficulties to acquired and process them properly. This pipleline will allow user to automatically acquire and process Sentinel-2 data, and calculate vegetation indices by running one single script.<br>
 With this, your team will be capable to start analysing the data right away and run any models you wish.<br>
 Desired time range, area, and kind of vegetation indices is easily configurable thanks to the structure.<br><br>
-
-As the code is highly confidential for our clients, if you would like to have a demo of our packages, please contact me.
+As the code is highly confidential, if you would like to have a demo of beta version, please contact me through linkedin.
 
 ## How to run the pipeline
-This pipeline automatically acquire and process satellite image, 
+Pipeline is runnable in any environment with a virtual environment.
 Create log file
 ```python
 mkdr logs
@@ -38,3 +36,7 @@ Run code
 ```python
 python run.py 
 ```
+
+## Data Acquisition
+## Insights
+## Crop Classification
