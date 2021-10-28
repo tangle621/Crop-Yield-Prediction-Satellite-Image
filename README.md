@@ -6,7 +6,7 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 
 **Table of Contents**
-- [Objective](#objective)
+- [Conterxt & Objective](#objective)
 - [About our pipeline](#about-our-pipeline)
   - [Description](#description-of-pipeline)
   - [Data acquisition mechanism](#data-acquisition-mechanism)
@@ -18,7 +18,10 @@
 
 
 # Objective
-This project's objective is to mitigate the supply chain risks in food and agricultural sectors by predicting crop yields in France. <br>
+Harvest are naturally seasonal, meaning that once harvest season has passed, deliveries are made throughout the year, diminishing a fixed amount of initial
+stock. This means that there is a specific need to plan out the way stocks will be chipped off over time, in order not to initially over-sell (not as trivial as it sounds accounting for multiple qualities and geographic locations), optimize the use of logistics networks (Optimal Transport problem) and finally make smart pricing decisions.
+
+This project's objective is to mitigate the logistics and profitability risks for food and agricultural sectors by predicting crop yields in France. <br>
 The pipeline is to be integraged into [Agrisight®](https://agrisight.emerton-data.com/?page_id=320&lang=en) by [Emerton Data®](https://www.emerton-data.com/)
 
 # About our pipeline
