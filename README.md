@@ -39,8 +39,8 @@ It provides high resolution satellite images (10m - 60m) over land and coastal w
 
 - French national registry
 A national register of cereal fields is publicly available. <br>
-It gives:
-The GPS coordinates of fields, defining the exact polygon
+It gives: <br>
+The GPS coordinates of fields, defining the exact polygon <br>
 The type of crop grown in each field by year
 
 - Crop yield data
@@ -59,7 +59,7 @@ First, create log file
 ```python
 mkdr logs
 ```
-Initialize the vertual environment
+Initialize the virtual environment
 ```python
 pipenv install
 pipenv shell
