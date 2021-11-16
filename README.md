@@ -33,18 +33,18 @@ Desired time range, area, and kind of vegetation indices is easily configurable 
 As the code is highly confidential, if you would like to have a demo of beta version, please contact us.
 
 ## Utilized data
-- Sentinel 2
+- Sentinel 2 <br>
 Sentinel 2 is an earth observation mission from ESA Copernicus Program. <br>
 It provides high resolution satellite images (10m - 60m) over land and coastal waters, with a large spectrum and a high frequency (~5 - 15 days) <br>
 
-- French national registry
+- French national registry <br>
 A national register of cereal fields is publicly available. <br>
-It gives: <br>
+It provides: <br>
 The GPS coordinates of fields, defining the exact polygon <br>
-The type of crop grown in each field by year
+The type of crop grown in each field by year <br>
 
-- Crop yield data
-Crop yiled data was acquired from a local farmer in France.  <br>
+- Crop yield data <br>
+Crop yiled data was acquired from a local farmer in France. <br>
 
 
 ## Data acquisition mechanism
