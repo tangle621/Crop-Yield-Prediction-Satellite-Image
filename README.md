@@ -26,7 +26,7 @@ The pipeline is to be integraged into [Agrisight®](https://agrisight.emerton-da
 
 # About our pipeline
 
-## Descroption
+## Description
 Although there are 2,200 satellites flying nowadays, usage of satellite image (remote sensing data) is limited due to the scientific and technical difficulties to acquired and process them properly. This pipleline will allow user to automatically acquire and process Sentinel-2 data, and calculate vegetation indices by running one single script.<br>
 With this, your team will be capable to start analysing the data right away and run any models you wish.<br>
 Desired time range, area, and kind of vegetation indices is easily configurable thanks to the structure.<br><br>
