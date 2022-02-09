@@ -65,7 +65,7 @@ pipenv install
 pipenv shell
 ```
 
-Start acquiring the data with desired region. If none, then whole it will acquire for whole France. <br>
+Start acquiring the data with desired region. If none, then it will acquire for whole France. <br>
 Type "-h" to see available regions.
 ```python
 python run.py <region-name>
