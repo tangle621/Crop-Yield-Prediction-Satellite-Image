@@ -54,7 +54,7 @@ Crop yiled data was acquired from a local farmer in France. <br>
 </p>
 
 ## How to run
-Pipeline is runnable in any environment with a virtual environment.<br>
+Pipeline is runnable with a virtual environment.<br>
 First, create log file
 ```python
 mkdr logs
@@ -65,9 +65,10 @@ pipenv install
 pipenv shell
 ```
 
-Run code
+Start acquiring the data with desired region. If none, then whole it will acquire for whole France. <br>
+Type "help" for available region.
 ```python
-python run.py 
+python run.py <region-name>
 ```
 
 # Enabled works examples
